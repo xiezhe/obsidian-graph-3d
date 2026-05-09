@@ -1,0 +1,15 @@
+{
+  "name": "LLM Wiki",
+  "groups": [
+    { "name": "概念", "pattern": "path:wiki/concepts/", "color": "#02c5f0" },
+    { "name": "实体", "pattern": "path:wiki/entities/", "color": "#ff0000" },
+    { "name": "主题", "pattern": "path:wiki/topics/", "color": "#ff8c00" },
+    { "name": "工具", "pattern": "path:wiki/tools/", "color": "#081b70" },
+    { "name": "摘要", "pattern": "path:wiki/summaries/", "color": "#800080" },
+    { "name": "对比", "pattern": "path:wiki/comparisons/", "color": "#00ced1" },
+    { "name": "综合", "pattern": "path:wiki/synthesis/", "color": "#ed64a1" },
+    { "name": "工作流", "pattern": "path:wiki/workflows/", "color": "#0f6b08" },
+    { "name": "素材", "pattern": "path:raw/", "color": "#808080" },
+    { "name": "剪藏", "pattern": "path:Clippings/", "color": "#c0c0ff" }
+  ]
+}

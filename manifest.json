@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-graph-3d",
+  "name": "Graph 3D",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "3D force-directed graph view for your Obsidian vault. Explore your knowledge graph in three dimensions.",
+  "author": "Sisyphus",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
